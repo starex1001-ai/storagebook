@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "스토리지북",
+  "brand": "STORAGEBOOK",
+  "mark": "ST",
+  "worker": "storagebook",
+  "url": "https://storagebook.webnote-lab.workers.dev",
+  "description": "스토리지북의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "스토리지북, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "스토리지북의 정보와 실용 가이드를 정리합니다.",
+      "name": "스토리지북",
+      "slug": "storagebook"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/storagebook/issues"
+}
